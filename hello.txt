@@ -1,4 +1,4 @@
 Hello puth1998
 Hello Mek
 sabaidee bor
-
+Cin [5:13] : find;
