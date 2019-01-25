@@ -6,5 +6,6 @@ Cin [5:15] : and you?;
 Hello1
 Hello2
 Cin [5:25] : I miss U;
+mek : i miss yu to want to see you;
 
 
